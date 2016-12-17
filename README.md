@@ -10,7 +10,7 @@ If you don't have **Alfred app** installed already with a [Powerpack license] an
 If you do have **Alfred app** installed on your system or intend to do so and you still don't have a [Powerpack License]… well, WTF are you waiting for? It's really cheap compared to the boost of productivity it provides. Seriously, i'm not even paid to say that, it's just the way i feel about it. Plus, you can't say Alfred is magnificent or shitty until you tried the Powerpack… It's just like you didn't even tested the app yet, just sayin.
 
 ###Step 2 : Download the Snippets collection
-[Just download it directly here](https://github.com/GoOz/snippetsdemerde/blob/master/Snippets%20de%20merde.alfredsnippets)
+[Just download it directly here](https://github.com/GoOz/snippetsdemerde/blob/master/Snippets%20de%20merde.alfredsnippets?raw=true)
 
 ###Step 3 : Install the collection
 Once you downloaded the package, just double click it, it'll be opened with Alfred (if the app is already running, if not… why the fuck not?).
