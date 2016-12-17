@@ -54,8 +54,10 @@ You can then use Alfred like any other workflow and write `snip` which is the de
 
 And voilà!
 
+
 📌 You also can use a hotkey to launch the snippets feature, you don't have to use the `snip` keyword. Do whatever the fuck you want, i'm not your mother.
 
+⚠ And now i can hear those mocking voices in the back saying "*And how are we supposed to know the keywords?*" Well, learn them! Open the snippets preferences panel, select the *Snippets de merde* collection et scroll the fuck down to see all of them, you also can add you own, do whatever you want.
 
 [Powerpack license]: https://www.alfredapp.com/powerpack/
 
